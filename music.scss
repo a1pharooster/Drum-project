@@ -1,0 +1,122 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('/web/drums/music.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.box-container {
+    height: 30rem;
+    width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+
+.box1 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    background-repeat: no-repeat;
+    border-radius: 25%;
+    
+}
+.box1:hover {
+    height: 11rem;
+    width: 13rem;
+    background-size: 13rem 11rem;
+    box-shadow: 8px 8px 8px black;
+}
+
+
+.box2 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    background-repeat: no-repeat;
+    border-radius: 25%;
+}
+.box2:hover {
+    height: 11rem;
+    width: 13rem;
+    box-shadow: 8px 8px 8px black;
+    background-size: 13rem 11rem;
+    background-repeat: no-repeat;
+}
+
+
+.box3 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    border-radius: 25%;
+}
+.box3:hover {
+    height: 11rem;
+    width: 13rem;
+    box-shadow: 8px 8px 8px black;
+    background-size: 13rem 11rem;
+    background-repeat: no-repeat;
+}
+
+
+.box4 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    border-radius: 25%;
+}
+.box4:hover {
+    height: 11rem;
+    width: 13rem;
+    box-shadow: 8px 8px 8px black;
+    background-repeat: no-repeat;
+    background-size: 13rem 11rem;
+}
+
+
+.box5 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    border-radius: 25%;
+}
+.box5:hover {
+    height: 11rem;
+    width: 13rem;
+    box-shadow: 8px 8px 8px black;
+    background-repeat: no-repeat;
+    background-size: 13rem 11rem;
+}
+
+
+.box6 {
+    height: 10rem;
+    width: 12rem;
+    background-image: url('/web/drums/scam.png');
+    background-size: 12rem 10rem;
+    border-radius: 25%;
+}
+.box6:hover {
+    height: 11rem;
+    width: 13rem;
+    box-shadow: 8px 8px 8px black;
+    background-repeat: no-repeat;
+    background-size: 13rem 11rem;
+}
